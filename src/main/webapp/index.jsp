@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<h2>Welcome to Azure DevOps , V2.0 Release !!!</h2>
+<h2>Welcome to Azure DevOps , V3.0 Release !!!</h2>
 <h2>Source Code Management Tool = Github</h2>
 <h2>Build Tool = Maven</h2>
 <h2>Welcome to CI/CD Using Jenkins, Terraform and Packer</h2>
